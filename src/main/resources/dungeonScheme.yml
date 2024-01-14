@@ -1,0 +1,6 @@
+1:
+  location:
+    dungeon: LOCATION SERIALIZADA # world,2423,52,3421 <- localização dentro do bloco preto
+    starting: LOCATION SERIALIZADA # localização de onde vai ficar o corpo do jogador que vai estar esperando os outros jogadores na dungeon
+  chances: 35 30 20 10 5 # <- chances comum, incomum, raro, epico, lendario
+  next-dungeon: 892389322389 # <- long unix do proximo horario que a dungeon vai estar disponivel

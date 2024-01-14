@@ -1,0 +1,9 @@
+name: MineSkyDungeons
+main: net.minesky.MineSkyDungeons
+version: 1.0.1-BETA
+softdepend:
+  - MineSkyDatabase
+commands:
+  mineskydungeons:
+    aliases:
+      - msd
